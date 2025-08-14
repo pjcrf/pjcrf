@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on uni and personal projects
-- 🌱 I’m currently learning c, dart and verilog
-- 👯 I’m looking to collaborate on anything I'm capable of, so very basic stuff (in c, python, c++, dart)
 - 📫 How to reach me: paulojcrferreira@gmail.com
 
 <!--
